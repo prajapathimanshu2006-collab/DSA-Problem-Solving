@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/prajapathimanshu2006-collab/DSA-Problem-Solving/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/prajapathimanshu2006-collab/DSA-Problem-Solving/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/prajapathimanshu2006-collab/DSA-Problem-Solving/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Binary Search
 |  |
