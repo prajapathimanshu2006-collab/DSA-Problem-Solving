@@ -8,6 +8,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/prajapathimanshu2006-collab/DSA-Problem-Solving/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0051-n-queens](https://github.com/prajapathimanshu2006-collab/DSA-Problem-Solving/tree/master/0051-n-queens) |
 | [0189-rotate-array](https://github.com/prajapathimanshu2006-collab/DSA-Problem-Solving/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/prajapathimanshu2006-collab/DSA-Problem-Solving/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/prajapathimanshu2006-collab/DSA-Problem-Solving/tree/master/0283-move-zeroes) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/prajapathimanshu2006-collab/DSA-Problem-Solving/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/prajapathimanshu2006-collab/DSA-Problem-Solving/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
@@ -15,6 +16,7 @@
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/prajapathimanshu2006-collab/DSA-Problem-Solving/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0268-missing-number](https://github.com/prajapathimanshu2006-collab/DSA-Problem-Solving/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -26,6 +28,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/prajapathimanshu2006-collab/DSA-Problem-Solving/tree/master/0268-missing-number) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/prajapathimanshu2006-collab/DSA-Problem-Solving/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Heap (Priority Queue)
 |  |
@@ -45,8 +48,17 @@
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/prajapathimanshu2006-collab/DSA-Problem-Solving/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/prajapathimanshu2006-collab/DSA-Problem-Solving/tree/master/0268-missing-number) |
 ## Backtracking
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/prajapathimanshu2006-collab/DSA-Problem-Solving/tree/master/0051-n-queens) |
+## Hash Table
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/prajapathimanshu2006-collab/DSA-Problem-Solving/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/prajapathimanshu2006-collab/DSA-Problem-Solving/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
