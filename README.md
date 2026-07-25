@@ -6,6 +6,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/prajapathimanshu2006-collab/DSA-Problem-Solving/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/prajapathimanshu2006-collab/DSA-Problem-Solving/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0051-n-queens](https://github.com/prajapathimanshu2006-collab/DSA-Problem-Solving/tree/master/0051-n-queens) |
 | [0189-rotate-array](https://github.com/prajapathimanshu2006-collab/DSA-Problem-Solving/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/prajapathimanshu2006-collab/DSA-Problem-Solving/tree/master/0283-move-zeroes) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/prajapathimanshu2006-collab/DSA-Problem-Solving/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -44,4 +45,8 @@
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/prajapathimanshu2006-collab/DSA-Problem-Solving/tree/master/0189-rotate-array) |
+## Backtracking
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/prajapathimanshu2006-collab/DSA-Problem-Solving/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
