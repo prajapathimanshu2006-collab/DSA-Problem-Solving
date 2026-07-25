@@ -10,6 +10,7 @@
 | [0189-rotate-array](https://github.com/prajapathimanshu2006-collab/DSA-Problem-Solving/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/prajapathimanshu2006-collab/DSA-Problem-Solving/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/prajapathimanshu2006-collab/DSA-Problem-Solving/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/prajapathimanshu2006-collab/DSA-Problem-Solving/tree/master/0485-max-consecutive-ones) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/prajapathimanshu2006-collab/DSA-Problem-Solving/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/prajapathimanshu2006-collab/DSA-Problem-Solving/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Binary Search
