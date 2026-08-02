@@ -8,6 +8,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/prajapathimanshu2006-collab/DSA-Problem-Solving/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0039-combination-sum](https://github.com/prajapathimanshu2006-collab/DSA-Problem-Solving/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/prajapathimanshu2006-collab/DSA-Problem-Solving/tree/master/0051-n-queens) |
+| [0055-jump-game](https://github.com/prajapathimanshu2006-collab/DSA-Problem-Solving/tree/master/0055-jump-game) |
 | [0189-rotate-array](https://github.com/prajapathimanshu2006-collab/DSA-Problem-Solving/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/prajapathimanshu2006-collab/DSA-Problem-Solving/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/prajapathimanshu2006-collab/DSA-Problem-Solving/tree/master/0283-move-zeroes) |
@@ -70,4 +71,12 @@
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/prajapathimanshu2006-collab/DSA-Problem-Solving/tree/master/2149-rearrange-array-elements-by-sign) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/prajapathimanshu2006-collab/DSA-Problem-Solving/tree/master/0055-jump-game) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/prajapathimanshu2006-collab/DSA-Problem-Solving/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
