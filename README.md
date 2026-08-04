@@ -16,6 +16,7 @@
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/prajapathimanshu2006-collab/DSA-Problem-Solving/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/prajapathimanshu2006-collab/DSA-Problem-Solving/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/prajapathimanshu2006-collab/DSA-Problem-Solving/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3731-find-missing-elements](https://github.com/prajapathimanshu2006-collab/DSA-Problem-Solving/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -34,6 +35,7 @@
 | ------- |
 | [0268-missing-number](https://github.com/prajapathimanshu2006-collab/DSA-Problem-Solving/tree/master/0268-missing-number) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/prajapathimanshu2006-collab/DSA-Problem-Solving/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [3731-find-missing-elements](https://github.com/prajapathimanshu2006-collab/DSA-Problem-Solving/tree/master/3731-find-missing-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -63,6 +65,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/prajapathimanshu2006-collab/DSA-Problem-Solving/tree/master/0268-missing-number) |
+| [3731-find-missing-elements](https://github.com/prajapathimanshu2006-collab/DSA-Problem-Solving/tree/master/3731-find-missing-elements) |
 ## Bit Manipulation
 |  |
 | ------- |
