@@ -57,6 +57,7 @@
 | ------- |
 | [0189-rotate-array](https://github.com/prajapathimanshu2006-collab/DSA-Problem-Solving/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/prajapathimanshu2006-collab/DSA-Problem-Solving/tree/master/0268-missing-number) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/prajapathimanshu2006-collab/DSA-Problem-Solving/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -88,4 +89,8 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/prajapathimanshu2006-collab/DSA-Problem-Solving/tree/master/0003-longest-substring-without-repeating-characters) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/prajapathimanshu2006-collab/DSA-Problem-Solving/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
