@@ -93,4 +93,16 @@
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/prajapathimanshu2006-collab/DSA-Problem-Solving/tree/master/3345-smallest-divisible-digit-product-i) |
+## Linked List
+|  |
+| ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/prajapathimanshu2006-collab/DSA-Problem-Solving/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+## Depth-First Search
+|  |
+| ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/prajapathimanshu2006-collab/DSA-Problem-Solving/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/prajapathimanshu2006-collab/DSA-Problem-Solving/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 <!---LeetCode Topics End-->
