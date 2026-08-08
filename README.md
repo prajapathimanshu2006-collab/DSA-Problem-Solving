@@ -9,6 +9,7 @@
 | [0039-combination-sum](https://github.com/prajapathimanshu2006-collab/DSA-Problem-Solving/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/prajapathimanshu2006-collab/DSA-Problem-Solving/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/prajapathimanshu2006-collab/DSA-Problem-Solving/tree/master/0055-jump-game) |
+| [0128-longest-consecutive-sequence](https://github.com/prajapathimanshu2006-collab/DSA-Problem-Solving/tree/master/0128-longest-consecutive-sequence) |
 | [0189-rotate-array](https://github.com/prajapathimanshu2006-collab/DSA-Problem-Solving/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/prajapathimanshu2006-collab/DSA-Problem-Solving/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/prajapathimanshu2006-collab/DSA-Problem-Solving/tree/master/0283-move-zeroes) |
@@ -67,6 +68,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/prajapathimanshu2006-collab/DSA-Problem-Solving/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0128-longest-consecutive-sequence](https://github.com/prajapathimanshu2006-collab/DSA-Problem-Solving/tree/master/0128-longest-consecutive-sequence) |
 | [0268-missing-number](https://github.com/prajapathimanshu2006-collab/DSA-Problem-Solving/tree/master/0268-missing-number) |
 | [3731-find-missing-elements](https://github.com/prajapathimanshu2006-collab/DSA-Problem-Solving/tree/master/3731-find-missing-elements) |
 ## Bit Manipulation
@@ -105,4 +107,8 @@
 |  |
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/prajapathimanshu2006-collab/DSA-Problem-Solving/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/prajapathimanshu2006-collab/DSA-Problem-Solving/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
