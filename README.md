@@ -9,6 +9,7 @@
 | [0039-combination-sum](https://github.com/prajapathimanshu2006-collab/DSA-Problem-Solving/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/prajapathimanshu2006-collab/DSA-Problem-Solving/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/prajapathimanshu2006-collab/DSA-Problem-Solving/tree/master/0055-jump-game) |
+| [0073-set-matrix-zeroes](https://github.com/prajapathimanshu2006-collab/DSA-Problem-Solving/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/prajapathimanshu2006-collab/DSA-Problem-Solving/tree/master/0128-longest-consecutive-sequence) |
 | [0189-rotate-array](https://github.com/prajapathimanshu2006-collab/DSA-Problem-Solving/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/prajapathimanshu2006-collab/DSA-Problem-Solving/tree/master/0268-missing-number) |
@@ -68,6 +69,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/prajapathimanshu2006-collab/DSA-Problem-Solving/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0073-set-matrix-zeroes](https://github.com/prajapathimanshu2006-collab/DSA-Problem-Solving/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/prajapathimanshu2006-collab/DSA-Problem-Solving/tree/master/0128-longest-consecutive-sequence) |
 | [0268-missing-number](https://github.com/prajapathimanshu2006-collab/DSA-Problem-Solving/tree/master/0268-missing-number) |
 | [3731-find-missing-elements](https://github.com/prajapathimanshu2006-collab/DSA-Problem-Solving/tree/master/3731-find-missing-elements) |
@@ -111,4 +113,8 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/prajapathimanshu2006-collab/DSA-Problem-Solving/tree/master/0128-longest-consecutive-sequence) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/prajapathimanshu2006-collab/DSA-Problem-Solving/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
